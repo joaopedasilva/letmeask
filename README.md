@@ -6,10 +6,10 @@
 
 ## Tabela de conteúdos
 
-* [Sobre o projeto](#-Sobre-o-projeto)
-* [Demo](#-Demo)
-* [Tecnologias](#-Tecnologias)
-* [Autor](#-Autor)
+* [Sobre o projeto](#books-sobre-o-projeto)
+* [Demo](#art-demo)
+* [Tecnologias](#computer-tecnologias)
+* [Autor](#sunglasses-autor)
 
 ## :books: Sobre o projeto
 
