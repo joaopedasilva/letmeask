@@ -6,14 +6,13 @@
 
 ## Tabela de conteúdos
 
-* [Sobre o projeto](#-Sobre-o-projeto)
-* [Demo](#-Demo)
-* [Tecnologias](#-Tecnologias)
-* [Autor](#-Autor)
+* [Sobre o projeto](#books-sobre-o-projeto)
+* [Demo](#art-demo)
+* [Tecnologias](#computer-tecnologias)
 
 ## :books: Sobre o projeto
 
-Letmeask é uma aplicação que permite a criação de salas de Q&A. Os usúarios enviam suas perguntas e também podem dar likes nas perguntas enviadas por outros usuários, assim permitindo o administrador da sala saber quais as maiores dúvidas da sua audiência.
+Letmeask é uma aplicação que foi desenvolvida durante o evento da Rocketseat chamado Next Level Week Together. Essa aplicação possibilita a criação de salas de Q&A. Os usúarios podem enviar suas perguntas e ou  dar likes nas perguntas enviadas por outros usuários, assim permitindo o administrador da sala saber quais as maiores dúvidas da sua audiência.
 
 ## :art: Demo
 
@@ -29,11 +28,3 @@ Letmeask é uma aplicação que permite a criação de salas de Q&A. Os usúario
 ![React Router](https://img.shields.io/badge/-React_Router-ca4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Yarn](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white)
-
-## :sunglasses: Autor
-
-<a href="https://github.com/joaopedasilva">
-  <img src="https://avatars.githubusercontent.com/u/56516539?v=4" width="100px;" />
-</a>
-
-[![LinkedIn Badge](https://img.shields.io/badge/-João_Pedro_Evangelista-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joao-pedro-evangelista-da-silva/) [![Outlook Badge](https://img.shields.io/badge/-jpevangelistadasilva@outlook.com-0078d4?style=flat-square&logo=microsoft-outlook)](mailto:jpevangelistadasilva@outlook.com)
