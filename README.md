@@ -6,15 +6,20 @@
 
 ## Tabela de conteúdos
 
-* [Sobre o projeto](#Sobre-o-projeto)
+* [Sobre o projeto](#-Sobre-o-projeto)
+* [Demo](#-Demo)
 * [Tecnologias](#-Tecnologias)
 * [Autor](#-Autor)
 
-## Sobre o projeto
+## :books: Sobre o projeto
 
 Letmeask é uma aplicação que permite a criação de salas de Q&A. Os usúarios enviam suas perguntas e também podem dar likes nas perguntas enviadas por outros usuários, assim permitindo o administrador da sala saber quais as maiores dúvidas da sua audiência.
 
-## 💻 Tecnologias
+## :art: Demo
+
+![Letmeask Demo](.github/letmeask-demonstration.gif)
+
+## :computer: Tecnologias
 
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +30,7 @@ Letmeask é uma aplicação que permite a criação de salas de Q&A. Os usúario
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Yarn](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white)
 
-## 😎 Autor
+## :sunglasses: Autor
 
 <a href="https://github.com/joaopedasilva">
   <img src="https://avatars.githubusercontent.com/u/56516539?v=4" width="100px;" />
